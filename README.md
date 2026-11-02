@@ -1,6 +1,6 @@
 <div align="center">
 
-# Michel Darryl TAMO FOTSO
+# Bonjour, je suis Michel Darryl TAMO FOTSO
 
 ### Développeur Full Stack · Java / Spring Boot · Angular · DevOps
 
