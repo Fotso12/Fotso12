@@ -3,7 +3,7 @@
 <p align="center"><b>Développeur full-stack - Java, Angular, mobile et DevOps</b></p>
 
 <p align="center">Étudiant en Master 2 à 3iL Ingénieurs · Limoges, France<br>
-<b><img src="https://api.iconify.design/fa6-solid:bullseye.svg?color=%232563eb" height="18" align="absmiddle" alt=""> Je recherche un stage de 6 mois dès mars 2027</b></p>
+<b><img src="https://api.iconify.design/fa6-solid:bullseye.svg?color=%232563eb" height="18" align="absmiddle" alt=""> Je recherche un stage de 6 mois à partir de début mars 2027</b></p>
 
 <p align="center"><a href="https://portfolio-michel-fotso.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-PORTFOLIO--MICHEL--FOTSO.VERCEL.APP-2563EB?style=for-the-badge&labelColor=555555" alt="PORTFOLIO"></a></p>
 <p align="center"><a href="https://www.linkedin.com/in/darryl-fotso"><img src="https://img.shields.io/badge/LINKEDIN-DARRYL_FOTSO-0A66C2?style=for-the-badge&labelColor=555555" alt="LINKEDIN"></a></p>
