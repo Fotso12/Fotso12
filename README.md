@@ -226,6 +226,6 @@ Site vitrine d'une entreprise de **négoce et d'exportation de bois nobles et de
 
 <p align="center">Un stage, un projet, une question technique ? Écrivez-moi.</p>
 
-<p align="center"><a href="https://portfolio-michel-fotso.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-PORTFOLIO--MICHEL--FOTSO.VERCEL.APP-2563EB?style=for-the-badge&labelColor=555555" alt="PORTFOLIO"></a></p>
+<p align="center"><a href="https://darrylfotso.site/"><img src="https://img.shields.io/badge/PORTFOLIO-PORTFOLIO--MICHEL--DARRYL-2563EB?style=for-the-badge&labelColor=555555" alt="PORTFOLIO"></a></p>
 <p align="center"><a href="https://www.linkedin.com/in/darryl-fotso"><img src="https://img.shields.io/badge/LINKEDIN-DARRYL_FOTSO-0A66C2?style=for-the-badge&labelColor=555555" alt="LINKEDIN"></a></p>
 <p align="center"><a href="mailto:tamofotso90@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-ME_CONTACTER-D14836?style=for-the-badge&labelColor=555555" alt="E-MAIL"></a></p>
